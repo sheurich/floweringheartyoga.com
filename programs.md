@@ -4,7 +4,7 @@ title: "Programs"
 permalink: /programs/
 ---
 
-![Yoga class in session](/assets/images/yoga-class-session.jpg)
+![Yoga class in session](/assets/images/yoga-class.jpg)
 
 ## Winter 2025 Yoga and Whole Hearted Health Class Schedule
 

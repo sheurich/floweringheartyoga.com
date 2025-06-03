@@ -6,7 +6,7 @@ permalink: /about-yoga/
 
 ## Yoga Practices through the Ages
 
-![Nataraja - Dancing Shiva](/assets/images/nataraja-dancing-shiva.jpg)
+![Nataraja - Dancing Shiva](/assets/images/lotus-flower.jpg)
 
 Yoga is an ancient practice that originated in India thousands of years ago. The word "yoga" comes from the Sanskrit root "yuj," which means "to unite" or "to join." This refers to the union of individual consciousness with universal consciousness, or the integration of body, mind, and spirit.
 

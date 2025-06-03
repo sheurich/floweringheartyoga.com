@@ -4,7 +4,7 @@ title: "Whole Hearted Health"
 permalink: /whole-hearted-health/
 ---
 
-![Simone with yoga books](/assets/images/simone-with-books.jpg)
+![Simone with yoga books](/assets/images/yoga-meditation.jpg)
 
 ## Vibrant Body, Peaceful Mind and Joyful Heart
 

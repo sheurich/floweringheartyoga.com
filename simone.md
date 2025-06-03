@@ -4,7 +4,7 @@ title: "A Yoga Journey with Simone Heurich"
 permalink: /simone/
 ---
 
-![Simone at the Taj Mahal](/assets/images/simone-taj-mahal.jpg)
+![Simone at the Taj Mahal](/assets/images/yoga-meditation.jpg)
 
 My journey on the path of yoga began unexpectedly in 1971 when a friend's enthusiastic invitation brought me to a local yoga class in Bethlehem Pennsylvania where I lived at the time. Since I don't remember much about the instructor, or about the class itself, I can only imagine how much my awareness and understanding of mySelf has grown throughout this time. I do know I felt some deep connection with yoga and that relationship has continued to grow.
 
