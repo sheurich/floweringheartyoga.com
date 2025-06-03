@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <!-- Background circle -->
+  <circle cx="150" cy="100" r="80" fill="#8B5A96" opacity="0.1"/>
+  
+  <!-- Lotus petals -->
+  <g transform="translate(150,100)">
+    <!-- Outer petals -->
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(45)"/>
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(90)"/>
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(135)"/>
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(225)"/>
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(270)"/>
+    <ellipse cx="0" cy="-40" rx="8" ry="25" fill="#8B5A96" transform="rotate(315)"/>
+    
+    <!-- Inner petals -->
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(22.5)"/>
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(67.5)"/>
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(112.5)"/>
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(157.5)"/>
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(202.5)"/>
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(247.5)"/>
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(292.5)"/>
+    <ellipse cx="0" cy="-25" rx="6" ry="18" fill="#B8A9C9" transform="rotate(337.5)"/>
+    
+    <!-- Center -->
+    <circle cx="0" cy="0" r="8" fill="#6B4C7A"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="150" y="160" text-anchor="middle" font-family="serif" font-size="24" font-weight="bold" fill="#8B5A96">
+    Flowering Heart
+  </text>
+  <text x="150" y="180" text-anchor="middle" font-family="serif" font-size="16" fill="#6B4C7A">
+    Yoga
+  </text>
+</svg>
