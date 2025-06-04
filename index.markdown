@@ -4,7 +4,7 @@ title: "Welcome to Flowering Heart Yoga"
 ---
 
 <div style="text-align: center; margin: 30px 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/DSC4038" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/10NKAidDfwA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="background-color: #FF69B4; color: white; text-align: center; padding: 15px; margin: 20px 0; border-radius: 5px;">
@@ -13,7 +13,15 @@ title: "Welcome to Flowering Heart Yoga"
 
 ## Welcome to Flowering Heart Yoga
 
-My journey on the path of yoga began unexpectedly in 1971 when a friend's enthusiastic invitation brought me to a local yoga class in Bethlehem Pennsylvania where I lived at the time. Since I don't remember much about the instructor, or about the class itself, I can only imagine how much my awareness and understanding of mySelf has grown throughout this time. I do know I felt some deep connection with yoga and that relationship has continued to grow.
+![Welcome to Flowering Heart Yoga](/assets/images/welcome2.jpg)
+
+A Hearty welcome to all from Flowering Heart Yoga and Whole Hearted Health!!!
+
+Thank you for using your precious time to visit this web site. Here you will find a bit of information and opportunities to attend programs that will increase your HQ (happiness quotient) as you experience a more vibrant body, peaceful mind and joyful heart.
+
+My teenage interest in health turned into a passion and it has has never stopped growing through all these years. When you care about people as I do, teaching becomes a natural avenue to share all that I continue to learn and apply in my own life. My great desire is to pass this on so others can experience more wellbeing on all levels.
+
+I began teaching Whole Food Cooking Classes in 1992 and have had the good fortune of professionally teaching yoga classes since 1994, though I've been doing yoga since 1971. I am grateful to teach smaller classes, as it allows me to tailor the class to my student's specific needs to ensure they see a real benefit from my classes, as there is no "one size fits all."
 
 After the classes finished, I continued to practice what I remembered. Within a few years(1972 or 73), I took another series of classes with some of the Swamis from the Kripalu ashram in Sumneytown, Pennsylvania. This would be my first taste of rich yogic philosophy and lifestyle. I was torn between my desire to learn more and my fear of being drawn into something I wasn't ready for. I chose to continue my practice on my own.
 
